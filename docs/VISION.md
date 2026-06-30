@@ -173,3 +173,13 @@ Then it has achieved its purpose.
 Built with ❤️ by the open-source community.
 
 Created by AerixLab.
+
+## NEW VISION
+"We design things to optimize the experience, not just make things prettier."
+
+
+## MISSION
+
+Aurora isn't designed to help people use an e-reader.
+
+Aurora is designed to help people fall into a reading mood.
