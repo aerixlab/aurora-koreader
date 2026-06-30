@@ -32,3 +32,21 @@ Aurora is not:
 ❌ Trying to imitate Android
 ❌ Wasting battery
 ❌ Hard to maintain
+
+
+Theme
+🌨️ Arctic (white + blue)
+🌌 Midnight (deep navy)
+🌲 Forest (soft green)
+🌅 Dawn (warm peach)
+🌸 Bloom (soft pink)
+❄️ Frost (cool gray)
+
+Colors
+Radius
+Typography
+Spacing
+Icons
+Cards
+Buttons
+Navigation
