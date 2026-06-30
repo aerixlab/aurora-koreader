@@ -1,2 +1,25 @@
-# aurora-koreader
-A modern, responsive UI framework for KOReader.
+# Aurora
+
+> A modern reading experience for KOReader.
+
+Beautiful.
+Responsive.
+Built for E Ink.
+
+---
+
+✨ Reading First
+
+🎨 Atmospheres
+
+📚 Beautiful Library
+
+⚡ Fast
+
+🌙 Day & Night
+
+---
+
+Coming Soon
+
+📷 Screenshot
