@@ -97,4 +97,22 @@ Aurora should never feel...
 ✗ Technical
 ✗ Overwhelming
 
+# Aurora Home Principles ✅
 
+✔ No scrolling
+
+✔ One screen only (Kobo Clara Colour)
+
+✔ Home is not a dashboard
+
+✔ Home is not Library
+
+✔ Home creates the reading mood
+
+✔ Books remain the focus
+
+✔ Minimal text
+
+✔ Plenty of whitespace
+
+✔ Calm and cozy

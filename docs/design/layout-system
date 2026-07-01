@@ -1,0 +1,217 @@
+## Books Are The Hero
+
+Books should always be the largest visual element on the screen.
+
+UI exists to support books, never compete with them.
+
+Whenever possible, prioritize book covers over decorative interface elements.
+
+Aurora
+
+├── Home
+├── Library
+├── Reader
+├── Highlights
+├── Reading Insights
+└── Settings
+
+# Core Scenes (v1.0)
+
+## 1. Home
+
+Purpose
+
+Welcome the reader and help them choose what to read next.
+
+Contains:
+
+Greeting (Good Morning / Good Evening)
+Aurora Picks
+Continue Reading
+Recent Books
+Shelves (optional)
+Reading Streak (subtle)
+Reading Companion message
+
+Decision:
+Fix Screen No Scrolling
+
+- Propose Home
+
+┌──────────────────────────────────────────────┐
+
+Reader Companion
+──────────────────────────────────────────────
+
+• Greeting
+• Quote
+• Discovery / Rediscover
+• Celebration
+• Holiday
+• Reading Reflection
+
+(Optional recommended book)
+
+──────────────────────────────────────────────
+
+┌──────────────────────┬───────────────────┐
+│ Continue Reading     │ Reading Snapshot  │
+│                      │                   │
+│ Atomic Habits        │ 14 Days           │
+│ Page 186             │ Reading Streak    │
+└──────────────────────┴───────────────────┘
+
+
+
+Library                     Shortcut
+
+└──────────────────────────────────────────────┘
+
+
+ - Aurora Illustration Style:
+Small and subtle.
+Decorative, never functional.
+Monochrome by default.
+Soft pastel variants for Kobo Colour.
+Never larger than the text itself.
+Supports the mood, never steals attention.
+
+Reader Companion
+
+├── Recommendation Layout
+├── Quote Layout
+├── Celebration Layout
+├── Greeting Layout
+├── Holiday Layout
+└── Reflection Layout
+
+
+## 2. Library
+
+Purpose
+
+Explore and organize the entire library.
+
+Contains:
+
+Search
+Shelves
+Books
+Collections
+Authors
+Series
+Sort
+Filter
+
+This is probably the biggest scene.
+
+## 3. Reader
+
+Purpose
+
+Read without distractions.
+
+Contains:
+
+Book
+Reader toolbar
+Reader settings
+Page preview
+Dictionary
+Highlights
+
+This is where users spend 90% of their time.
+
+## 4. Highlights & Notes
+
+Purpose:
+
+Everything you've highlighted.
+
+Contains:
+
+Highlights
+Notes
+Quotes
+Export
+
+Question for you:
+
+Do we make this a separate scene?
+
+Or place it inside Library?
+
+I'm leaning toward separate, because some readers use highlights heavily.
+
+## 5. Reading Insights
+
+Notice I renamed it.
+
+Not Statistics.
+
+Reading Insights feels more human.
+
+Contains:
+
+Streak
+Reading calendar
+Books finished
+Reading time
+Favorite genres
+
+## 6. Settings
+
+Contains:
+
+Reading
+Display
+Atmospheres
+Wallpaper
+Reader Companion
+Advanced
+Plugins
+
+
+# Optional Scenes (v2.0)
+
+Not necessary for the first release.
+
+## Atmosphere Studio
+
+Choose:
+
+Atmosphere
+Accent color
+Wallpaper
+🖼 Wallpaper Gallery
+
+Choose wallpaper.
+
+Preview.
+
+Crop.
+
+Apply.
+
+## Shelf Editor
+
+Create shelves.
+
+Rename.
+
+Custom cover.
+
+Sort.
+
+## Reader Companion
+
+Maybe later.
+
+History of Aurora Picks.
+
+Customize companion.
+
+Messages.
+
+## Download/Import
+KIV

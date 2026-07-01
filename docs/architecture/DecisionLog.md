@@ -45,3 +45,36 @@ This better communicates the concept.
 Aurora will use ShelfCard as the unified representation for any book grouping (folders, collections, series, authors, etc.). The visual appearance remains consistent while the underlying data source may differ.
 
 That's the kind of decision that keeps a codebase elegant.
+
+# ADR-004 
+
+┌──────────────────────────────────────────────┐
+
+Reader Companion
+──────────────────────────────────────────────
+
+• Greeting
+• Quote
+• Discovery / Rediscover
+• Celebration
+• Holiday
+• Reading Reflection
+
+(Optional recommended book)
+
+──────────────────────────────────────────────
+
+┌──────────────────────┬───────────────────┐
+│ Continue Reading     │ Reading Snapshot  │
+│                      │                   │
+│ Atomic Habits        │ 14 Days           │
+│ Page 186             │ Reading Streak    │
+└──────────────────────┴───────────────────┘
+
+
+
+
+
+Library                     Shortcut
+
+└──────────────────────────────────────────────┘
